@@ -8,15 +8,15 @@ Auto-Copy on Hold does not collect, store, or transmit any personal data from us
 
 Data Collection
 
-We do not collect any personal information from users. The extension operates solely by accessing and copying the text that you manually select in your browser.
+I do not collect any personal information from users. The extension operates solely by accessing and copying the text that you manually select in your browser.
 
 Data Usage
 
-Since we do not collect any data, there is no data usage beyond the immediate copying of the selected text to your clipboard. All operations are performed locally on your device.
+Since I do not collect any data, there is no data usage beyond the immediate copying of the selected text to your clipboard. All operations are performed locally on your device.
 
 Data Security
 
-We prioritize your data security. All processes performed by Auto-Copy on Hold occur locally within your browser and device. We do not transmit or store any data externally, ensuring that your information remains secure.
+I prioritize your data security. All processes performed by Auto-Copy on Hold occur locally within your browser and device. I do not transmit or store any data externally, ensuring that your information remains secure.
 
 Third-Party Services
 
@@ -28,8 +28,8 @@ As Auto-Copy on Hold does not collect any personal data, there are no user right
 
 Changes to This Privacy Policy
 
-We may update our Privacy Policy from time to time. Any changes will be reflected on this page with an updated effective date. We encourage you to review this Privacy Policy periodically to stay informed about how we protect your information.
+I may update our Privacy Policy from time to time. Any changes will be reflected on this page with an updated effective date. I encourage you to review this Privacy Policy periodically to stay informed about how I protect your information.
 
-Contact Us
+Contact Me
 
-If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at: [brff19@gmail.com]
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact me at: [brff19@gmail.com]
