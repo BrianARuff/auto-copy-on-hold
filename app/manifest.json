@@ -21,7 +21,6 @@
   },
   "permissions": [
     "storage",
-    "clipboardWrite",
     "activeTab",
     "scripting"
   ],
@@ -31,6 +30,5 @@
       "js": ["content_script.js"],
       "run_at": "document_idle"
     }
-  ],
-  "host_permissions": ["<all_urls>"]
+  ]
 }
